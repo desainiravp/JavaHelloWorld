@@ -11,7 +11,7 @@ The Program below Prints the words
 * Compilation: javac HelloWorld.java
 * Execution: java HelloWorld
 *
-* Prints "Hello, World". By tradition, this is everyone's first program.
+* Prints "Hello,Nirav World". By tradition, this is everyone's first program.
 *
 * % java HelloWorld
 * Hello, World
