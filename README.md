@@ -1,4 +1,4 @@
-# Java Hello World Example
+# Java Hello World Example with Poll SCM enable
 
 In this tutorial we will create the most basic program in Java. i.e. Hello World Program.
 Since Java is object-oriented, programs are organized into modules called classes, which may have data in variables and subroutines called methods.
